@@ -10,13 +10,19 @@ Cайт [TURIZM.RU](https://www.turizm.ru/) об отдыхе и путешес�
 <summary>Mindmap</summary>
 
 ***
-![текст](https://raw.githubusercontent.com/ZoeIvanchuk/QA_portfolio/main/mindmap.png)
+![Mindmap](https://raw.githubusercontent.com/ZoeIvanchuk/QA_portfolio/main/mindmap.png)
 
 ***
 </details>
 
 <details>
 <summary>Чек-лист</summary>
+ 
+![Check-list](https://raw.githubusercontent.com/ZoeIvanchuk/QA_portfolio/main/Chek-list.png)
+ 
+![Check-list2](https://raw.githubusercontent.com/ZoeIvanchuk/QA_portfolio/main/Chek-list2.png)
+
+![Check-list3](https://raw.githubusercontent.com/ZoeIvanchuk/QA_portfolio/main/Chek-list3.png)
 
 ***
 </details>
