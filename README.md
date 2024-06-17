@@ -18,6 +18,8 @@ Cайт [TURIZM.RU](https://www.turizm.ru/) об отдыхе и путешес�
 <details>
 <summary>Чек-лист</summary>
 
+***
+</details>
 
 <details>
 <summary>Тест-кейс</summary>
