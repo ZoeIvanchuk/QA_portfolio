@@ -16,13 +16,16 @@ Cайт [TURIZM.RU](https://www.turizm.ru/) об отдыхе и путешес�
 </details>
 
 <details>
-<summary>Чек-лист</summary>
  
-![Check-list](https://raw.githubusercontent.com/ZoeIvanchuk/QA_portfolio/main/Chek-list.png)
+<summary>Чек-лист</summary>
+
+ ***
+ 
+![Check-list](https://raw.githubusercontent.com/ZoeIvanchuk/QA_portfolio/main/Chek-list1.png)
  
 ![Check-list2](https://raw.githubusercontent.com/ZoeIvanchuk/QA_portfolio/main/Chek-list2.png)
 
-![Check-list3](https://raw.githubusercontent.com/ZoeIvanchuk/QA_portfolio/main/Chek-list3.png)
+![Check-list3](https://github.com/ZoeIvanchuk/QA_portfolio/blob/main/Chek-list3.png)
 
 ***
 </details>
